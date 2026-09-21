@@ -13,7 +13,7 @@ To construct, wire, and solder a switch-based two-input AND logic gate circuit o
 &nbsp;
 
 ![][image1]
-
+![image1](componentand.jpeg)
 &nbsp;
 
 &nbsp;
@@ -35,7 +35,7 @@ TRUTH TABLE:
 &nbsp;
 
 ![][image2]
-
+![image2](truthtable.jpeg)
 &nbsp;
 
 &nbsp;
@@ -57,7 +57,7 @@ TRUTH TABLE:
 &nbsp;
 
 ![][image3]
-
+![image](diagramand.jpeg)
 &nbsp;
 
 &nbsp;
@@ -97,7 +97,7 @@ TRUTH TABLE:
 &nbsp;
 
 ![][image4]
-
+![image4](results.jpeg)
 &nbsp;
 
 &nbsp;
